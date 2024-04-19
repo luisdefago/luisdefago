@@ -1,16 +1,24 @@
-### Hi there 👋
+¡Hola! 👋 Soy Luis, un apasionado desarrollador Full Stack.
 
-<!--
-**luisdefago/luisdefago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas (UTN).
 
-Here are some ideas to get you started:
+🛠️ Adquirí mis primeras bases en Desarrollo Web, JavaScript y React en cursos de CoderHouse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Recién egresado del bootcamp de Soy Henry, donde he perfeccionado mis habilidades en:
+- JavaScript
+- React
+- Redux
+- Node.js
+- Express
+- PostgreSQL
+- MySQL
+- Typescript
+
+🔗 En mi GitHub encontrarás mis proyectos personales, donde continúo mejorando y aprendiendo.
+
+💪 Constantemente motivado para aprender nuevas tecnologías y mejorar mis habilidades en informática.
+
+💬 Abierto a nuevas oportunidades y colaboraciones, ansioso por aplicar mi experiencia y conocimientos en el desarrollo de soluciones innovadoras.
+
+¡Conéctate conmigo!
+[LinkedIn](https://www.linkedin.com/in/luis-defago-005840252/) | [GitHub](https://github.com/luisdefago)
