@@ -20,5 +20,4 @@
 
 💬 Abierto a nuevas oportunidades y colaboraciones, ansioso por aplicar mi experiencia y conocimientos en el desarrollo de soluciones innovadoras.
 
-¡Conéctate conmigo!
 [LinkedIn](https://www.linkedin.com/in/luis-defago-005840252/) | [GitHub](https://github.com/luisdefago)
