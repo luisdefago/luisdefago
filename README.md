@@ -11,7 +11,7 @@
 - Node.js
 - Express
 - PostgreSQL
-- MySQL
+- SQL
 - Typescript
 
 🔗 En mi GitHub encontrarás mis proyectos personales, donde continúo mejorando y aprendiendo.
