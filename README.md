@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Sistemas (UTN).
 
-🛠️ Adquirí mis primeras bases en Desarrollo Web, JavaScript y React en cursos de CoderHouse.
+🛠️ Adquirí mis primeras bases en Desarrollo Web, JavaScript, React y React Native en cursos de CoderHouse.
 
 🚀 Recién egresado del bootcamp de Soy Henry, donde he perfeccionado mis habilidades en:
 - JavaScript
@@ -13,7 +13,6 @@
 - PostgreSQL
 - SQL
 - Typescript
-- React Native
 
 🔗 En mi GitHub encontrarás mis proyectos personales, donde continúo mejorando y aprendiendo.
 
