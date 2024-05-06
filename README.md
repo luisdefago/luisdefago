@@ -13,6 +13,7 @@
 - PostgreSQL
 - SQL
 - Typescript
+- React Native
 
 🔗 En mi GitHub encontrarás mis proyectos personales, donde continúo mejorando y aprendiendo.
 
